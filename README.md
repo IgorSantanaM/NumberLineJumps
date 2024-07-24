@@ -24,13 +24,8 @@ NO
 ## Function Signature
 
 ```csharp
-public static string kangaroo(int x1, int v1, int x2, int v2)
-Code
-csharp
-Copiar código
 using System;
 using System.IO;
-
 class Result
 {
     public static string kangaroo(int x1, int v1, int x2, int v2)
