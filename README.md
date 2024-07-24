@@ -60,7 +60,8 @@ class Solution
 ## How to Run
 Clone this repository.
 ```bash
-git clone 
+git clone https://github.com/IgorSantanaM/NumberLineJumps.git
+```
 Navigate to the project directory.
 Run the application using dotnet run.
 Enter the starting positions and velocities of the kangaroos when prompted.
